@@ -6,13 +6,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "072jmtam0jd4"
+            "id": "6mwj8parq2sf"
           }
         },
         "id": "blogPost",
         "type": "ContentType",
-        "createdAt": "2019-02-22T19:38:19.040Z",
-        "updatedAt": "2019-02-22T19:38:23.055Z",
+        "createdAt": "2019-02-22T22:51:49.980Z",
+        "updatedAt": "2019-02-22T22:51:53.790Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -21,8 +21,8 @@
           }
         },
         "publishedVersion": 1,
-        "publishedAt": "2019-02-22T19:38:23.055Z",
-        "firstPublishedAt": "2019-02-22T19:38:23.055Z",
+        "publishedAt": "2019-02-22T22:51:53.790Z",
+        "firstPublishedAt": "2019-02-22T22:51:53.790Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -102,74 +102,6 @@
       ]
     }
   ],
-  "editorInterfaces": [
-    {
-      "sys": {
-        "id": "default",
-        "type": "EditorInterface",
-        "space": {
-          "sys": {
-            "id": "072jmtam0jd4",
-            "type": "Link",
-            "linkType": "Space"
-          }
-        },
-        "version": 2,
-        "createdAt": "2019-02-22T19:38:23.154Z",
-        "createdBy": {
-          "sys": {
-            "id": "7Atxd42rHgwZafpkZP8mq1",
-            "type": "Link",
-            "linkType": "User"
-          }
-        },
-        "updatedAt": "2019-02-22T19:38:26.239Z",
-        "updatedBy": {
-          "sys": {
-            "id": "7Atxd42rHgwZafpkZP8mq1",
-            "type": "Link",
-            "linkType": "User"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "id": "blogPost",
-            "type": "Link",
-            "linkType": "ContentType"
-          }
-        },
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        }
-      },
-      "controls": [
-        {
-          "fieldId": "title",
-          "widgetId": "singleLine",
-          "widgetNamespace": "builtin"
-        },
-        {
-          "fieldId": "slug",
-          "widgetId": "slugEditor",
-          "widgetNamespace": "builtin"
-        },
-        {
-          "fieldId": "keywords",
-          "widgetId": "tagEditor",
-          "widgetNamespace": "builtin"
-        },
-        {
-          "fieldId": "body",
-          "widgetId": "markdown",
-          "widgetNamespace": "builtin"
-        }
-      ]
-    }
-  ],
   "entries": [
     {
       "sys": {
@@ -177,13 +109,82 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "072jmtam0jd4"
+            "id": "6mwj8parq2sf"
+          }
+        },
+        "id": "57nkDlZcZioSniquhTlt5N",
+        "type": "Entry",
+        "createdAt": "2019-02-22T22:51:58.493Z",
+        "updatedAt": "2019-02-23T15:15:46.538Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 36,
+        "publishedAt": "2019-02-23T14:49:33.929Z",
+        "firstPublishedAt": "2019-02-22T22:52:02.778Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7Atxd42rHgwZafpkZP8mq1"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7Atxd42rHgwZafpkZP8mq1"
+          }
+        },
+        "publishedCounter": 11,
+        "version": 39,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "7Atxd42rHgwZafpkZP8mq1"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "blogPost"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Hello, Contentful Gatsby!"
+        },
+        "slug": {
+          "en-US": "hello-world"
+        },
+        "keywords": {
+          "en-US": ["contentful", "gatsby"]
+        },
+        "body": {
+          "en-US": "Nullam cursus lobortis leo eu finibus. In eget ligula a ante dapibus varius. Morbi sollicitudin arcu nisi, vel suscipit est molestie vel. Nunc cursus mauris eget est molestie euismod. Vestibulum quis est et orci efficitur tristique. Cras sagittis quam nisi, sit amet pellentesque magna aliquam congue. Etiam convallis scelerisque mollis. Sed nec ultrices lacus. Praesent lacinia et risus eu dapibus. Nunc tincidunt elit neque, in tristique nisl placerat id. Maecenas pretium dapibus magna, vel iaculis tortor sollicitudin id.\n\nDuis mollis est eu elit malesuada, vitae imperdiet eros volutpat. Quisque fermentum nulla vitae velit venenatis, quis rhoncus velit laoreet. Vivamus nec gravida quam. Ut vel risus nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc eget tellus sit amet urna finibus pellentesque vulputate sit amet libero. Cras pellentesque ornare mauris, id scelerisque urna convallis facilisis. In aliquet elit id odio mollis faucibus eget in lacus. Quisque sit amet arcu quis felis convallis sodales non in nulla.\n\nProin accumsan hendrerit eros at vestibulum. Vivamus pulvinar ex vel nisl varius facilisis sit amet eu lorem. Quisque eleifend suscipit eros eu rutrum. Quisque in faucibus massa, non varius felis. In hac habitasse platea dictumst. Mauris eget quam viverra, rutrum leo vitae, porta neque. Morbi ultrices, nulla in efficitur auctor, mi eros pharetra tellus, nec molestie ex felis sit amet eros. Etiam nisl eros, laoreet ac elit eget, imperdiet commodo turpis. Praesent tempor vel nibh vitae dapibus. In sapien felis, consequat eu porttitor et, rhoncus ac mi. Pellentesque gravida, ligula sed posuere tempus, diam dolor volutpat mauris, eu mollis lacus metus vel nulla.\n\nMaecenas sit amet varius libero, eu maximus tellus. Duis scelerisque, nulla sit amet consectetur semper, dui urna scelerisque nibh, eu feugiat enim lorem sollicitudin mi. Sed congue sodales molestie. Morbi semper diam est. Nullam volutpat rutrum risus, sit amet tristique nibh ornare vel. Sed aliquet finibus nibh ut rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean non quam nulla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam iaculis, mauris eget placerat placerat, lectus lorem hendrerit lorem, vitae facilisis mauris enim nec ex. Pellentesque mattis eu leo sed posuere. Etiam sit amet lacinia nunc. Donec varius nibh ipsum, nec molestie sem pretium in. Praesent aliquet sit amet risus sit amet elementum.\n\nNullam et justo sem. Vivamus rutrum turpis vitae enim sollicitudin maximus. Cras feugiat elit a leo vehicula lobortis. Fusce tristique velit in massa scelerisque posuere. Donec rutrum a erat ac hendrerit. Nunc vitae ante tempus, tristique orci sit amet, fermentum arcu. Morbi blandit dolor a metus suscipit, et auctor tellus maximus."
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "6mwj8parq2sf"
           }
         },
         "id": "4dDRCQfSJ4sqAoWXn8xVzs",
         "type": "Entry",
-        "createdAt": "2019-02-22T19:38:35.894Z",
-        "updatedAt": "2019-02-22T19:38:40.525Z",
+        "createdAt": "2019-02-22T22:51:58.594Z",
+        "updatedAt": "2019-02-22T22:52:02.113Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -192,8 +193,8 @@
           }
         },
         "publishedVersion": 1,
-        "publishedAt": "2019-02-22T19:38:40.525Z",
-        "firstPublishedAt": "2019-02-22T19:38:40.525Z",
+        "publishedAt": "2019-02-22T22:52:02.113Z",
+        "firstPublishedAt": "2019-02-22T22:52:02.113Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -246,103 +247,31 @@
           "en-US": "Adipisicing labore dolore fugiat minim pariatur anim. Mollit id esse ipsum eu enim cillum et cupidatat do. Nostrud enim exercitation sit laboris eiusmod reprehenderit ipsum. Aute magna excepteur ipsum irure velit sint. Id ex elit aliquip eu nisi irure nulla ut Lorem eiusmod deserunt eiusmod.\n\nNisi voluptate consequat in culpa velit consequat labore. Et consequat esse et proident enim ipsum duis Lorem magna reprehenderit et est. Ipsum voluptate consequat quis exercitation.\n\nCulpa aliquip cupidatat aliqua sint anim do. Nisi eu laboris tempor irure dolore. Incididunt officia ipsum adipisicing exercitation minim veniam reprehenderit. Excepteur cupidatat nostrud pariatur mollit quis occaecat esse. Sit in Lorem labore nulla qui sit.\n\nNostrud ad elit velit esse nostrud sit Lorem laboris ullamco ex enim do. Ullamco elit do quis eiusmod adipisicing Lorem sunt enim non incididunt reprehenderit laboris. Eu proident veniam labore veniam in aliqua qui cupidatat ullamco sint cillum. Aliqua deserunt veniam labore occaecat tempor sit in. Minim ad mollit dolor laborum consequat nulla officia quis reprehenderit cillum eu commodo consequat. Veniam consequat labore voluptate officia magna enim id Lorem fugiat ex.\n\nNulla magna ad aute ut exercitation occaecat et incididunt ut aute excepteur fugiat. Eiusmod aliqua aliquip deserunt dolor. Irure et mollit adipisicing anim amet dolore laboris nisi ullamco. Mollit reprehenderit ea veniam culpa. Occaecat commodo proident labore est qui magna excepteur ut magna eiusmod commodo qui. Reprehenderit aute irure voluptate sint laborum eu eiusmod nisi velit ipsum reprehenderit proident."
         }
       }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "072jmtam0jd4"
-          }
-        },
-        "id": "57nkDlZcZioSniquhTlt5N",
-        "type": "Entry",
-        "createdAt": "2019-02-22T19:38:35.956Z",
-        "updatedAt": "2019-02-22T19:38:39.541Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "publishedAt": "2019-02-22T19:38:39.541Z",
-        "firstPublishedAt": "2019-02-22T19:38:39.541Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "7Atxd42rHgwZafpkZP8mq1"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "7Atxd42rHgwZafpkZP8mq1"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 2,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "7Atxd42rHgwZafpkZP8mq1"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "blogPost"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Hello, World!"
-        },
-        "slug": {
-          "en-US": "hello-world"
-        },
-        "keywords": {
-          "en-US": ["contentful", "gatsby"]
-        },
-        "body": {
-          "en-US": "Nullam cursus lobortis leo eu finibus. In eget ligula a ante dapibus varius. Morbi sollicitudin arcu nisi, vel suscipit est molestie vel. Nunc cursus mauris eget est molestie euismod. Vestibulum quis est et orci efficitur tristique. Cras sagittis quam nisi, sit amet pellentesque magna aliquam congue. Etiam convallis scelerisque mollis. Sed nec ultrices lacus. Praesent lacinia et risus eu dapibus. Nunc tincidunt elit neque, in tristique nisl placerat id. Maecenas pretium dapibus magna, vel iaculis tortor sollicitudin id.\n\nDuis mollis est eu elit malesuada, vitae imperdiet eros volutpat. Quisque fermentum nulla vitae velit venenatis, quis rhoncus velit laoreet. Vivamus nec gravida quam. Ut vel risus nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc eget tellus sit amet urna finibus pellentesque vulputate sit amet libero. Cras pellentesque ornare mauris, id scelerisque urna convallis facilisis. In aliquet elit id odio mollis faucibus eget in lacus. Quisque sit amet arcu quis felis convallis sodales non in nulla.\n\nProin accumsan hendrerit eros at vestibulum. Vivamus pulvinar ex vel nisl varius facilisis sit amet eu lorem. Quisque eleifend suscipit eros eu rutrum. Quisque in faucibus massa, non varius felis. In hac habitasse platea dictumst. Mauris eget quam viverra, rutrum leo vitae, porta neque. Morbi ultrices, nulla in efficitur auctor, mi eros pharetra tellus, nec molestie ex felis sit amet eros. Etiam nisl eros, laoreet ac elit eget, imperdiet commodo turpis. Praesent tempor vel nibh vitae dapibus. In sapien felis, consequat eu porttitor et, rhoncus ac mi. Pellentesque gravida, ligula sed posuere tempus, diam dolor volutpat mauris, eu mollis lacus metus vel nulla.\n\nMaecenas sit amet varius libero, eu maximus tellus. Duis scelerisque, nulla sit amet consectetur semper, dui urna scelerisque nibh, eu feugiat enim lorem sollicitudin mi. Sed congue sodales molestie. Morbi semper diam est. Nullam volutpat rutrum risus, sit amet tristique nibh ornare vel. Sed aliquet finibus nibh ut rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean non quam nulla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam iaculis, mauris eget placerat placerat, lectus lorem hendrerit lorem, vitae facilisis mauris enim nec ex. Pellentesque mattis eu leo sed posuere. Etiam sit amet lacinia nunc. Donec varius nibh ipsum, nec molestie sem pretium in. Praesent aliquet sit amet risus sit amet elementum.\n\nNullam et justo sem. Vivamus rutrum turpis vitae enim sollicitudin maximus. Cras feugiat elit a leo vehicula lobortis. Fusce tristique velit in massa scelerisque posuere. Donec rutrum a erat ac hendrerit. Nunc vitae ante tempus, tristique orci sit amet, fermentum arcu. Morbi blandit dolor a metus suscipit, et auctor tellus maximus."
-        }
-      }
     }
   ],
   "assets": [],
-  "locales": [
+  "webhooks": [
     {
-      "name": "English (United States)",
-      "code": "en-US",
-      "fallbackCode": null,
-      "default": true,
-      "contentManagementApi": true,
-      "contentDeliveryApi": true,
-      "optional": false,
+      "name": "Notify GitHub Action",
+      "url": "https://api.github.com/repos/:owner/:repo/dispatches",
+      "httpBasicUsername": null,
+      "topics": ["*.publish", "*.unpublish", "*.delete"],
+      "filters": null,
+      "transformation": {
+        "includeContentLength": true,
+        "body": {
+          "event_type": "contentful.publish"
+        }
+      },
       "sys": {
-        "type": "Locale",
-        "id": "6bGINk80pqloV7CXY1Dpc2",
-        "version": 1,
+        "type": "WebhookDefinition",
+        "id": "03dFCr4IYK2PEXiiEDnXrx",
+        "version": 2,
         "space": {
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "072jmtam0jd4"
-          }
-        },
-        "environment": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Environment",
-            "id": "master"
+            "id": "6mwj8parq2sf"
           }
         },
         "createdBy": {
@@ -352,7 +281,7 @@
             "id": "7Atxd42rHgwZafpkZP8mq1"
           }
         },
-        "createdAt": "2019-02-22T11:13:24Z",
+        "createdAt": "2019-02-22T23:25:04Z",
         "updatedBy": {
           "sys": {
             "type": "Link",
@@ -360,10 +289,26 @@
             "id": "7Atxd42rHgwZafpkZP8mq1"
           }
         },
-        "updatedAt": "2019-02-22T11:13:24Z"
-      }
+        "updatedAt": "2019-02-22T23:27:13Z"
+      },
+      "headers": [
+        {
+          "key": "Accept",
+          "value": "application/vnd.github.everest-preview+json"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/json"
+        },
+        {
+          "key": "Authorization",
+          "secret": true
+        },
+        {
+          "key": "User-Agent",
+          "value": "contentful-gatsby-action"
+        }
+      ]
     }
-  ],
-  "webhooks": [],
-  "roles": []
+  ]
 }
